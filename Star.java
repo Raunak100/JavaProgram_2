@@ -1,4 +1,4 @@
-public class StarPattern {
+public class Star {
     public static void main(String[] args) {
         int numberOfRows = 5; // Number of rows for the pattern
 
